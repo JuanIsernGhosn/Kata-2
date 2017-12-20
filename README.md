@@ -1,4 +1,4 @@
-# Kata-2
+# Kata_2
 
 Enunciado:
 Dado el siguiente vector:
